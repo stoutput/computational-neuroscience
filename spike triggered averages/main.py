@@ -1,9 +1,7 @@
 from __future__ import division
 import numpy as np
 import matplotlib.pyplot as plt
-
 import pickle
-
 from compute_sta import compute_sta
 
 
